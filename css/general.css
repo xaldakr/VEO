@@ -84,7 +84,7 @@
 }
 .txtwhite {
   color: #c2c2c2 !important;
-
+}
 .bgabout {
   background-color: #0201229d;
   text-align: end;
@@ -92,7 +92,7 @@
 .bgabout img {
   text-align: start;
   height: auto;
-  }
+}
 
 /* Estilos para el footer */
 /* Estilos para el footer */
@@ -127,5 +127,4 @@ footer ul {
 
 footer ul li {
   margin-bottom: 10px;
-
 }
