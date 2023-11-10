@@ -41,6 +41,12 @@
   margin-top: 2%;
   padding-bottom: 0;
 }
+.intro h2 {
+  font-size: 2.5em;
+  margin-bottom: 0;
+  margin-top: 2%;
+  padding-bottom: 0;
+}
 .intro li {
   text-decoration: none;
   list-style-type: none;
@@ -86,14 +92,46 @@
   color: #c2c2c2 !important;
 }
 .bgabout {
-  background-color: #0201229d;
+  background-color: #0201229d !important;
   text-align: end;
 }
 .bgabout img {
   text-align: start;
   height: auto;
 }
-
+.btnmover {
+  background-color: #020122 !important;
+  color: #ebebeb !important;
+  border-color: #ebebeb !important;
+}
+.btnmover:hover {
+  background-color: #ebebeb !important;
+  color: #020122 !important;
+  border-color: #020122 !important;
+}
+.bg1 .accordion-button:not(.collapsed) {
+  background-color: #ebebeb !important;
+  color: #020122 !important;
+}
+.bg2 .accordion-button:not(.collapsed) {
+  background-color: #cc3d00 !important;
+  color: #020122 !important;
+}
+.bg1 {
+  background-color: #020122 !important;
+  color: #ebebeb !important;
+}
+.bg2 {
+  background-color: #6630b0 !important;
+  color: #ebebeb !important;
+}
+.botoac {
+  background-color: #020122 !important;
+  color: #ebebeb !important;
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+  display: block !important;
+}
 /* Estilos para el footer */
 /* Estilos para el footer */
 /* Estilos para el footer con nueva paleta de colores */
